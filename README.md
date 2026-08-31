@@ -1,0 +1,4 @@
+dependencies:
+ripgrep
+fzf
+treesitter
